@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/plugins/canvas_coordinates" >
+        <file>icon.png</file>
+    </qresource>
+	
+    <qresource prefix="/plugins/canvas_coordinates" >
+        <file>icon2.png</file>
+    </qresource>
+</RCC>
